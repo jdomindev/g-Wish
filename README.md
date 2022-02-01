@@ -17,8 +17,8 @@ This is a collaborative full-stack web application that combines a robust back-e
 There are no steps for installation. Simply run the deployed link in your browser.
 
 ## Usage
-- Deployed Link: https://afternoon-stream-65311.herokuapp.com/
-- Repo Link: https://github.com/AJRead13/g-Wish
+- Deployed Link: https://dashboard.heroku.com/apps/mighty-lowlands-12407
+- Repo Link: https://github.com/jdomindev/g-Wish
 ## Credits
 
 This application was created collaboratively by Warren Haskins, John Roberts, Andrew Reed and Jose Dominguez. Their Github profiles are listed below. 
